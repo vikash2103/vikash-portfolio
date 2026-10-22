@@ -41,8 +41,9 @@
 }
 
 .carousel-slide {
-  min-width: 100%;
-  flex-shrink: 0;
+  flex: 0 0 100%;
+  width: 100%;
+  min-width: 0;
   box-sizing: border-box;
   padding: 50px 0;
 }
@@ -279,6 +280,10 @@
     gap: 40px;
   }
 
+  .carousel-slide {
+    padding: 50px 70px;
+  }
+
   .carousel-arrow-left {
     left: 10px;
   }
@@ -346,7 +351,7 @@
   }
 
   .carousel-slide {
-    padding: 30px 0;
+    padding: 30px 55px;
   }
 
   .work-image img {
