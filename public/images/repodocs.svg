@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101418"/><stop offset="1" stop-color="#0ea5e9" stop-opacity="0.55"/></linearGradient></defs>
-  <rect width="1600" height="900" rx="24" fill="url(#g)"/>
-  <rect x="60" y="60" width="1480" height="780" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="3" stroke-dasharray="14 12"/>
-  <text x="800" y="450" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="600" text-anchor="middle">RepoDocs</text>
-  <text x="800" y="530" fill="#ffffff" fill-opacity="0.6" font-family="Arial, Helvetica, sans-serif" font-size="38" text-anchor="middle">Screenshot placeholder</text>
-</svg>

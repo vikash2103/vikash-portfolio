@@ -20,7 +20,7 @@ const projects: {
       "Random video chat platform with real-time matching, AI moderation, end-to-end encrypted DMs and Stripe subscriptions. Built, deployed and run solo on AWS.",
     tools:
       "React, Node.js, Express, Socket.io, WebRTC, Firebase, Stripe, AWS EC2 and S3",
-    image: "/images/yapho.svg",
+    image: "/images/yapho.webp",
     link: "https://yapho.live",
   },
   {
@@ -29,7 +29,7 @@ const projects: {
       "Free, open-source CVE risk-ranking app (final-year capstone, team of two). Combines CVSS, CISA KEV and asset criticality, with AI-generated remediation scripts.",
     tools:
       "FastAPI, Tailwind CSS, Chart.js, SQLite, Groq and Ollama (RAG), AWS EC2, nginx",
-    image: "/images/vulnerability-prioritizer.svg",
+    image: "/images/vulnerability-prioritizer.webp",
     link: "http://3.102.81.248",
     note: "Create an account with email to try it.",
     links: [
@@ -44,7 +44,7 @@ const projects: {
     category:
       "AI tool that generates a professional README for any public GitHub repository. Bring-your-own API key, so keys are never stored server-side.",
     tools: "Python, FastAPI, Groq API, AWS EC2, nginx, systemd",
-    image: "/images/repodocs.svg",
+    image: "/images/repodocs.png",
     link: "http://3.102.81.248/repodocs/",
     links: [
       { label: "GitHub", url: "https://github.com/vikash2103/doclify-web" },
@@ -56,7 +56,7 @@ const projects: {
       "Predicts heart disease risk from patient health parameters with a KNN classifier. Based on an open-source app that I rebuilt, modernised and deployed.",
     tools:
       "Flask, scikit-learn (KNN), MongoDB Atlas, Gunicorn, Nginx, AWS EC2",
-    image: "/images/cardio-monitor.svg",
+    image: "/images/cardio-monitor.png",
     link: "http://3.102.81.248/cardio-monitor/",
     links: [
       { label: "GitHub", url: "https://github.com/vikash2103/Cardio-Monitor" },
